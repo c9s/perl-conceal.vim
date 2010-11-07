@@ -1,0 +1,16 @@
+
+More fun with Perl
+
+Vim7.3 comes with conceal feature, which can make something this:
+
+
+    my $coderef = sub {
+
+    };
+
+into:
+
+    my $coderef = λ {
+
+    };
+
